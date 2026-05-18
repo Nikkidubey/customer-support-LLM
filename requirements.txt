@@ -1,9 +1,0 @@
-transformers
-datasets
-torch
-peft
-accelerate
-fastapi
-uvicorn
-pyngrok
-detoxify
