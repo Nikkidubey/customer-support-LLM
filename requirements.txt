@@ -1,0 +1,12 @@
+torch
+transformers
+datasets
+peft
+accelerate
+fastapi
+uvicorn
+pyngrok
+detoxify
+huggingface_hub
+sentencepiece
+protobuf
